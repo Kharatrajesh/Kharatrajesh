@@ -16,20 +16,44 @@
   <img src="https://img.shields.io/github/followers/Kharatrajesh?label=Followers&style=flat-square&color=7dd3fc" />
 </p>
 
+<!-- Open to Work -->
+<p align="center">
+  <img src="https://img.shields.io/badge/●%20OPEN%20TO%20WORK-2ea043?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/FRONTEND%20%2F%20TECH%20SUPPORT%20ROLE-0d1b2a?style=for-the-badge&color=1e3a8a" />
+</p>
+
 ---
 
 ### 🧑‍💻 Who I Am
 
+<table>
+<tr>
+<td width="60%">
+
 ```ts
 const rajeshKharat = {
   title: "Frontend Developer",
-  stack: ["React.js", "Node.js", "SQL", "AWS"],
+  stack: {
+    frontend: ["React 18", "Vite", "Tailwind CSS", "Framer Motion", "Figma", "GSAP"],
+    backend:  ["Node.js", "Express", "Socket.io"],
+    cloud:    ["AWS", "API Gateway"],
+    db:       ["SQL", "PostgreSQL 16", "DynamoDB"],
+    ai:       ["Google Gemini AI", "Anthropic Claude", "Pinecone RAG"],
+    devops:   ["Docker", "GitHub Actions"],
+  },
   launchedProjects: ["Harry & Liu", "Weatherly Flow"],
-  certifications: [],
-  status: "Building and shipping web projects",
-  openTo: "Frontend Developer/ Application Support Roles - Mumbai",
+  certified: "NPTEL — DBMS · IIT Kanpur, NPTEL Soft Skills, TechUstaads Professional MERN Stack Course",
+  status: "Looking for the best opportunities in development and tech support roles",
+  openTo: "Full-time developer roles — Mumbai · Pune · Remote",
 };
 ```
+
+</td>
+<td width="40%" align="center">
+  <img src="./assets/coding-illustration.svg" width="260"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -67,22 +91,32 @@ Live weather app built with React.js, powered by a weather API.
 
 **Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma,js,html,css" />
 </p>
 
 **Backend / Infra**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,socketio" />
 </p>
 
 **Database**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,dynamodb" />
 </p>
 
 **Cloud**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+**AI / DB**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp" />
+</p>
+
+**Dev Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
 </p>
 
 ---
