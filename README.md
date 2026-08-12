@@ -27,7 +27,7 @@ const rajeshKharat = {
   launchedProjects: ["Harry & Liu", "Weatherly Flow"],
   certifications: [],
   status: "Building and shipping web projects",
-  openTo: "Collaborations & new opportunities",
+  openTo: "Frontend Developer/ Application Support Roles - Mumbai",
 };
 ```
 
