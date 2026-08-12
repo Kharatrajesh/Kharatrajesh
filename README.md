@@ -150,7 +150,7 @@ Live weather app built with React.js, powered by a weather API.
 
 ---
 
-### 🔗 Connect With Me
+### 🔗🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rajesh-kharat-557787215/" target="_blank">
